@@ -42,7 +42,7 @@ python bot.py
 
 [] Save images in an specific folder for better organization
 
-[] Parse multiple sibreddits at the same time
+[] Parse multiple subreddits at the same time
 
 [] Reorganize the code (I find it a bit messy)
 
